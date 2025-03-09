@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Kobe Sukhatme
+Student Email:  kmsukhat@syr.edu
 
 ## Instructions
 
@@ -22,5 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-test
-test 2
+In assingnment 3, I learned how to use streamlit (how to write code is vs code and its output in the web browser for streamlit). Specifically, using session_state for multiple files, since streamlit resets variables on each run. Also, how to properly display the output using st.info().
